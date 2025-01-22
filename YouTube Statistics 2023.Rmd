@@ -1,7 +1,7 @@
 ---
 title: "YouTube Statistics 2023"
 author: "Sheida Ebrahimi Siaghi"
-output: html_document
+output: pdf_document
 ---
 
 ## Introduction
